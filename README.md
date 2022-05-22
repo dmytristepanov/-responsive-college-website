@@ -7,4 +7,4 @@ In this project I create a complete website design using HTML and CSS. It is ful
 
 
 
-(/preview.png)
+!(/preview.png)
