@@ -8,4 +8,4 @@ In this project I create a complete website design using HTML and CSS. It is ful
 
 
 
-![preview](https://github.com/dmytristepanov/-responsive-college-website/blob/629a14b3e171f9d192f8c745357581fbcb0fb2fd/preview.png)
+![preview](https://github.com/dmytristepanov/-responsive-college-website/blob/main/preview.png)
