@@ -7,4 +7,5 @@ In this project I create a complete website design using HTML and CSS. It is ful
 
 
 
-!(/preview.png)
+![preview](https://user-images.githubusercontent.com/104728827/169684637-5e0ccef5-7795-43d5-b8c5-4b614c7b2590.png)
+
