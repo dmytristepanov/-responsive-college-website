@@ -7,5 +7,5 @@ In this project I create a complete website design using HTML and CSS. It is ful
 
 
 
-![preview](https://user-images.githubusercontent.com/104728827/169684637-5e0ccef5-7795-43d5-b8c5-4b614c7b2590.png)
 
+![preview](https://github.com/dmytristepanov/-responsive-college-website/blob/629a14b3e171f9d192f8c745357581fbcb0fb2fd/preview.png)
